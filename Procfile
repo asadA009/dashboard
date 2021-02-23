@@ -1,1 +1,1 @@
-web: gunicorn django-admin_lte3.wsgi
+web: gunicorn django_adminlte3.wsgi
